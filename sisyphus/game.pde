@@ -10,7 +10,7 @@ void game() {
   handlePlayerInput();
   checkLeftScore();
   checkRightScore();
-  //gif shit
+  //gif stuff
   fire1.show();
   fire2.show();
   image(hill, 90, 520, 320, 320);
