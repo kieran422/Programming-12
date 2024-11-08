@@ -52,7 +52,7 @@ class Button {
     drawImage();
     clickedOn();
   }
-//shit in the show 
+//stuff in the show 
 
   void drawImage() {
     //text label
