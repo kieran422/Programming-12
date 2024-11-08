@@ -3,7 +3,7 @@ void game() {
   background(hell);
 
 
-  //fisica shit
+  //fisica stuff
 
   world.step();
   world.draw();
