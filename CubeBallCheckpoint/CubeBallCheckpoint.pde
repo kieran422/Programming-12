@@ -22,7 +22,7 @@ void cube(float x, float y, float z, color c, float size) {
   rotateY(roty);
   //rotateZ();
 
-  fill(c);
+  fill(c); 
   stroke(0);
   strokeWeight(3);
   box(size); // side length
